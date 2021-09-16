@@ -3,5 +3,7 @@ Belajar CSS
 - CSS layout
 - CSS flex
 - CSS grid
-- Belajar Bootstrap & TailWind
+- Belajar Library
+  -Bootstrap
+  -tailwind
 - Belajar SASS
