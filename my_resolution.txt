@@ -1,0 +1,7 @@
+My resolution 2021
+- Belajar front end Development dan frameworknya masing-masing
+  -HTML
+  -CSS (bootstrap & tailwind)
+  -Javascript (react.js, vue.js, angular.js)
+ -mulai freelance minimal front endnya dulu
+ - belajar dikit-dikit backend (php node.js)s
